@@ -9,6 +9,6 @@
 
 ### Day 1: January 6, 2021
 
-**Today's Progress**: Day 1 of 100 days of Code. I've slogged through the day. I've been able to pry myself away from the media long enough to update git and get started on creating my 
+**Today's Progress**: I've slogged through the day. I've been able to pry myself away from the media long enough to update git and get started on creating my project skeleton.
 
 **Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
