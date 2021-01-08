@@ -16,6 +16,6 @@
 
 ### Day 1: January 7, 2021
 
-**Today's Progress**: Spent my time working on user stories, ERD's, routes and adding Bootstrap 5 to the project. 
+**Today's Progress**: Spent my time working on user stories, ERD's, routes and adding Bootstrap 5 to the project. + Added Fontawesome Icons.
 
 **Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
