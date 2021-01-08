@@ -12,3 +12,10 @@
 **Today's Progress**: I've slogged through the day. I've been able to pry myself away from the media long enough to update git and get started on creating my project skeleton.
 
 **Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
+
+
+### Day 1: January 7, 2021
+
+**Today's Progress**: Spent my time working user stories, ERD, routes and adding Bootstrap 5 to the project. 
+
+**Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
