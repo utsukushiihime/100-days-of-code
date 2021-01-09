@@ -14,8 +14,15 @@
 **Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
 
 
-### Day 1: January 7, 2021
+### Day 2: January 7, 2021
 
 **Today's Progress**: Spent my time working on user stories, ERD's, routes and adding Bootstrap 5 to the project. + Added Fontawesome Icons.
+
+**Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
+
+
+### Day 3: January 8, 2021
+
+**Today's Progress**: Added user and course (CRUD). Deployed to Heroku.
 
 **Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
