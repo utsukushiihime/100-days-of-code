@@ -26,3 +26,10 @@
 **Today's Progress**: Added user and course (CRUD). Deployed to Heroku.
 
 **Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
+
+
+### Day 4: January 9, 2021
+
+**Today's Progress**: Added user auth, header, footer, minor styling. Will finish the night styling and add user/course relation. 
+
+**Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
