@@ -2,7 +2,7 @@
 
 ### Day 0: January 5, 2021
 
-**Today's Progress**: Added Ruby on Rails and Postgres to project. Deployed to Heroku. 
+**Today's Progress**: Added Ruby on Rails and Postgres to project. Deployed to [Heroku](https://techupskill.herokuapp.com/). 
 
 **Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
 
