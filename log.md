@@ -49,3 +49,9 @@
 **Link(s) to work**: [Tech Upskill](https://github.com/utsukushiihime/techupskill)
 
 
+### Day 8: January 13, 2021
+
+**Today's Progress**: Completed several challenges in React and Javascript on Free Code Camp. My daughter just got here from Germany so I spent most of my time with her and less coding. Next week I plan to commit to more time to projects.
+
+**Link(s) to work**: [Free Code Camp Profile](https://www.freecodecamp.org/utsukushiihime)
+
