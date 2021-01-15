@@ -55,3 +55,16 @@
 
 **Link(s) to work**: [Free Code Camp Profile](https://www.freecodecamp.org/utsukushiihime)
 
+
+### Day 9: January 14, 2021
+
+**Today's Progress**: Adds React.js to Rails in the TechUpskill Project. Will add student, instructor users. 
+**Link(s) to work**: [Free Code Camp Profile](https://www.freecodecamp.org/utsukushiihime)
+
+
+
+
+
+
+
+
