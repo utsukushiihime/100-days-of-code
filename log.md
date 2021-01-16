@@ -58,8 +58,14 @@
 
 ### Day 9: January 14, 2021
 
-**Today's Progress**: Adds React.js to Rails in the TechUpskill Project. Will add student, instructor users. 
-**Link(s) to work**: [Free Code Camp Profile](https://www.freecodecamp.org/utsukushiihime)
+**Today's Progress**: Decided to start a redesign of my portfolio using React.js, Tailwind, Next.js. Haven't decided what I want to do for my backend. Will work on planning tonight. 
+
+**Link(s) to work**: [New Tech Portfolio](https://github.com/utsukushiihime/new-portfolio)
+
+**Link to current portfolio**: [Portfolio](https://crystalmcneil.tech)
+
+
+
 
 
 
